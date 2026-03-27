@@ -1,6 +1,5 @@
-#About 
-<A collection of beginner-friendly AI/ML projects with clear problem statements and complete code to help you understand core concepts through hands-on learning.>
-
+## About 
+A collection of beginner-friendly AI/ML projects with clear problem statements and complete code to help you understand core concepts through hands-on learning.
 
 
 ## 👨‍💻 Author
